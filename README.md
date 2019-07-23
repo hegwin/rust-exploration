@@ -21,3 +21,13 @@
 * [array](sample/array.rs)
 
 * [tuple](sample/tuple.rs)
+
+## Data Handling
+
+* [enums](enums)
+
+* [ownership](ownership)
+
+* [slices](slices)
+
+* [patterns](patterns)
