@@ -24,7 +24,11 @@
 
 ## Data Handling
 
+Not sure if it is a good title. I put some features of Rust here as well.
+
 * [enums](enums)
+
+* [options & enums](option)
 
 * [ownership](ownership)
 
@@ -41,5 +45,7 @@
 * [Rectangle as an example for methods & traits](rectangle)
 
 ## Using crates
+
+A crate is like a `gem` in `Ruby` or a `package` for `JS`
 
 * [regex](regex)
