@@ -34,6 +34,12 @@
 
 ## Structs, Methods & Traits
 
+* [structs](structs)
+
 * [methods](methods)
 
 * [Rectangle as an example for methods & traits](rectangle)
+
+## Using crates
+
+* [regex](regex)
