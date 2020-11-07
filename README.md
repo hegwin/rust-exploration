@@ -31,3 +31,9 @@
 * [slices](slices)
 
 * [patterns](patterns)
+
+## Structs, Methods & Traits
+
+* [methods](methods)
+
+* [Rectangle as an example for methods & traits](rectangle)
