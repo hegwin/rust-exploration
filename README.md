@@ -49,3 +49,5 @@ Not sure if it is a good title. I put some features of Rust here as well.
 A crate is like a `gem` in `Ruby` or a `package` for `JS`
 
 * [regex](regex)
+
+* [ureq for sync http request](http_request)
