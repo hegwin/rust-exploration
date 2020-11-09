@@ -53,3 +53,5 @@ A crate is like a `gem` in `Ruby` or a `package` for `JS`
 * [regex](regex)
 
 * [ureq for sync http request](http_request)
+
+* [use rand in number guess game](guess_game)
