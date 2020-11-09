@@ -36,6 +36,8 @@ Not sure if it is a good title. I put some features of Rust here as well.
 
 * [patterns](patterns)
 
+* [panic](panic)
+
 ## Structs, Methods & Traits
 
 * [structs](structs)
