@@ -57,3 +57,7 @@ A crate is like a `gem` in `Ruby` or a `package` for `JS`
 * [ureq for sync http request](http_request)
 
 * [use rand in number guess game](guess_game)
+
+## Test
+
+* [write and run tests](write_tests)
